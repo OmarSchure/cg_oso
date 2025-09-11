@@ -17,3 +17,6 @@
 
 ### Features
 - placeholder
+
+### Icons
+- [Star Icons](https://www.flaticon.com/free-icons/star)
