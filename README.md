@@ -14,7 +14,8 @@
 - [Menu click](https://freesound.org/people/BaggoNotes/sounds/721502/)
 - [Circle hit](https://freesound.org/people/cjfilmmaker/sounds/328317/)
 - [Circle miss](https://freesound.org/people/Robinhood76/sounds/368314/)
-
+- [Game win](https://freesound.org/people/Tuudurt/sounds/275104/)
+- [Circle over](https://freesound.org/people/deleted_user_877451/sounds/76376/)
 ### Features
 - placeholder
 
