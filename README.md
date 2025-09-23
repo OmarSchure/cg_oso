@@ -11,11 +11,9 @@
 
 
 ### Sounds sources
-- [Cancel menu click](https://freesound.org/people/el_boss/sounds/788602/)
-  - placeholder
 - [Menu click](https://freesound.org/people/BaggoNotes/sounds/721502/)
-  - placeholder
-
+- [Circle hit](https://freesound.org/people/cjfilmmaker/sounds/328317/)
+- [Circle miss](https://freesound.org/people/Robinhood76/sounds/368314/)
 
 ### Features
 - placeholder
