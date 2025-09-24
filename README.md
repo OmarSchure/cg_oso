@@ -20,5 +20,9 @@
 - [Digital Anarchy](https://pixabay.com/music/upbeat-digital-anarchy-387273/)
 - [INSPIRED](https://soundcloud.com/neffexmusic/inspired)
 
+
+### Maps
+Are auto-generated with [OSO Mapper](https://github.com/xKean/oso-mapper).
+
 ### Icons
 - [Star Icons](https://www.flaticon.com/free-icons/star)
