@@ -16,8 +16,9 @@
 - [Circle miss](https://freesound.org/people/Robinhood76/sounds/368314/)
 - [Game win](https://freesound.org/people/Tuudurt/sounds/275104/)
 - [Circle over](https://freesound.org/people/deleted_user_877451/sounds/76376/)
-### Features
-- placeholder
+### Music sources
+- [Digital Anarchy](https://pixabay.com/music/upbeat-digital-anarchy-387273/)
+- [INSPIRED](https://soundcloud.com/neffexmusic/inspired)
 
 ### Icons
 - [Star Icons](https://www.flaticon.com/free-icons/star)
