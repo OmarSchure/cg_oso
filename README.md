@@ -1,15 +1,4 @@
 ### 
-
-
-
-
-
-### Asset sources
-
-- [placeholder](placeholder)
-
-
-
 ### Sounds sources
 - [Menu click](https://freesound.org/people/BaggoNotes/sounds/721502/)
 - [Circle hit](https://freesound.org/people/cjfilmmaker/sounds/328317/)
@@ -17,9 +6,9 @@
 - [Game win](https://freesound.org/people/Tuudurt/sounds/275104/)
 - [Circle over](https://freesound.org/people/deleted_user_877451/sounds/76376/)
 ### Music sources
-- [Digital Anarchy](https://pixabay.com/music/upbeat-digital-anarchy-387273/)
 - [INSPIRED](https://soundcloud.com/neffexmusic/inspired)
-
+- [GO](hhttps://soundcloud.com/neffexmusic/go-1)
+- [The Riot](https://ncs.io/TheRiot)
 
 ### Maps
 Are auto-generated with [OSO Mapper](https://github.com/xKean/oso-mapper).
