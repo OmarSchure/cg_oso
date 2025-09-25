@@ -1,0 +1,2222 @@
+[
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2018.0,
+      "Z": 69.58031
+    },
+    "TimeSec": 0.29986393,
+    "Index": 0,
+    "Name": "Row_000",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1369.95,
+      "Z": 73.914536
+    },
+    "TimeSec": 0.5747392,
+    "Index": 1,
+    "Name": "Row_001",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1722.0,
+      "Z": 0.0
+    },
+    "TimeSec": 0.7996372,
+    "Index": 2,
+    "Name": "Row_002",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1034.0,
+      "Z": 473.50906
+    },
+    "TimeSec": 1.0495238,
+    "Index": 3,
+    "Name": "Row_003",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 739.0,
+      "Z": 68.964935
+    },
+    "TimeSec": 1.2494332,
+    "Index": 4,
+    "Name": "Row_004",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1082.4504,
+      "Z": 71.61623
+    },
+    "TimeSec": 1.6492517,
+    "Index": 5,
+    "Name": "Row_005",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1828.0,
+      "Z": 646.9762
+    },
+    "TimeSec": 1.8241724,
+    "Index": 6,
+    "Name": "Row_006",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2.0,
+      "Z": 75.00635
+    },
+    "TimeSec": 1.9990929,
+    "Index": 7,
+    "Name": "Row_007",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1840.2645,
+      "Z": 161.287
+    },
+    "TimeSec": 2.2989569,
+    "Index": 8,
+    "Name": "Row_008",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 124.0,
+      "Z": 827.0
+    },
+    "TimeSec": 2.6487982,
+    "Index": 9,
+    "Name": "Row_009",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 658.9518,
+      "Z": 252.2469
+    },
+    "TimeSec": 2.948662,
+    "Index": 10,
+    "Name": "Row_010",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 274.99634
+    },
+    "TimeSec": 3.1235828,
+    "Index": 11,
+    "Name": "Row_011",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2166.85,
+      "Z": 203.1604
+    },
+    "TimeSec": 3.4984126,
+    "Index": 12,
+    "Name": "Row_012",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1930.6722,
+      "Z": 0.0
+    },
+    "TimeSec": 4.373016,
+    "Index": 13,
+    "Name": "Row_013",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 152.0,
+      "Z": 511.1057
+    },
+    "TimeSec": 4.7478456,
+    "Index": 14,
+    "Name": "Row_014",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 899.9769,
+      "Z": 0.0
+    },
+    "TimeSec": 5.9972787,
+    "Index": 15,
+    "Name": "Row_015",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2191.0,
+      "Z": 1100.0
+    },
+    "TimeSec": 6.372109,
+    "Index": 16,
+    "Name": "Row_016",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1273.8184,
+      "Z": 249.29617
+    },
+    "TimeSec": 6.6844673,
+    "Index": 17,
+    "Name": "Row_017",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 302.0,
+      "Z": 108.933784
+    },
+    "TimeSec": 6.996825,
+    "Index": 18,
+    "Name": "Row_018",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1075.3556,
+      "Z": 274.04523
+    },
+    "TimeSec": 7.1842403,
+    "Index": 19,
+    "Name": "Row_019",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 0.0
+    },
+    "TimeSec": 7.4965987,
+    "Index": 20,
+    "Name": "Row_020",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 0.0
+    },
+    "TimeSec": 7.9963717,
+    "Index": 21,
+    "Name": "Row_021",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 889.1863,
+      "Z": 200.9632
+    },
+    "TimeSec": 8.3712015,
+    "Index": 22,
+    "Name": "Row_022",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1563.9459,
+      "Z": 122.55166
+    },
+    "TimeSec": 8.589852,
+    "Index": 23,
+    "Name": "Row_023",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 551.2666,
+      "Z": 0.0
+    },
+    "TimeSec": 8.746032,
+    "Index": 24,
+    "Name": "Row_024",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1499.1803,
+      "Z": 0.0
+    },
+    "TimeSec": 8.995918,
+    "Index": 25,
+    "Name": "Row_025",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2011.2043,
+      "Z": 328.7566
+    },
+    "TimeSec": 9.183333,
+    "Index": 26,
+    "Name": "Row_026",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 460.92035,
+      "Z": 230.35995
+    },
+    "TimeSec": 9.495691,
+    "Index": 27,
+    "Name": "Row_027",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 153.49059,
+      "Z": 0.0
+    },
+    "TimeSec": 9.683106,
+    "Index": 28,
+    "Name": "Row_028",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 569.8347,
+      "Z": 62.61711
+    },
+    "TimeSec": 9.995465,
+    "Index": 29,
+    "Name": "Row_029",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 801.3187,
+      "Z": 392.71634
+    },
+    "TimeSec": 10.370295,
+    "Index": 30,
+    "Name": "Row_030",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1458.01,
+      "Z": 327.2284
+    },
+    "TimeSec": 10.995011,
+    "Index": 31,
+    "Name": "Row_031",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1299.0,
+      "Z": 1100.0
+    },
+    "TimeSec": 11.494784,
+    "Index": 32,
+    "Name": "Row_032",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1870.6334,
+      "Z": 932.8351
+    },
+    "TimeSec": 12.369388,
+    "Index": 33,
+    "Name": "Row_033",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2000.0,
+      "Z": 0.0
+    },
+    "TimeSec": 12.6817465,
+    "Index": 34,
+    "Name": "Row_034",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 12.994104,
+    "Index": 35,
+    "Name": "Row_035",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2137.1719,
+      "Z": 484.10193
+    },
+    "TimeSec": 13.1815195,
+    "Index": 36,
+    "Name": "Row_036",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 353.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 13.493877,
+    "Index": 37,
+    "Name": "Row_037",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1666.4214,
+      "Z": 294.30374
+    },
+    "TimeSec": 13.743764,
+    "Index": 38,
+    "Name": "Row_038",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1828.8774,
+      "Z": 410.95715
+    },
+    "TimeSec": 13.99365,
+    "Index": 39,
+    "Name": "Row_039",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 528.2597,
+      "Z": 418.6826
+    },
+    "TimeSec": 14.368481,
+    "Index": 40,
+    "Name": "Row_040",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1136.1907,
+      "Z": 841.0
+    },
+    "TimeSec": 14.993197,
+    "Index": 41,
+    "Name": "Row_041",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1099.0,
+      "Z": 1100.0
+    },
+    "TimeSec": 15.49297,
+    "Index": 42,
+    "Name": "Row_042",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 199.91235,
+      "Z": 280.91666
+    },
+    "TimeSec": 15.9927435,
+    "Index": 43,
+    "Name": "Row_043",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1053.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 16.492517,
+    "Index": 44,
+    "Name": "Row_044",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 273.0,
+      "Z": 1032.4127
+    },
+    "TimeSec": 16.742403,
+    "Index": 45,
+    "Name": "Row_045",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 87.80091
+    },
+    "TimeSec": 16.99229,
+    "Index": 46,
+    "Name": "Row_046",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1863.7119,
+      "Z": 193.6789
+    },
+    "TimeSec": 17.179705,
+    "Index": 47,
+    "Name": "Row_047",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1453.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 17.492064,
+    "Index": 48,
+    "Name": "Row_048",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1453.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 17.679478,
+    "Index": 49,
+    "Name": "Row_049",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.0
+    },
+    "TimeSec": 17.991837,
+    "Index": 50,
+    "Name": "Row_050",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1000.19055,
+      "Z": 413.9297
+    },
+    "TimeSec": 18.366667,
+    "Index": 51,
+    "Name": "Row_051",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1693.557,
+      "Z": 88.57271
+    },
+    "TimeSec": 18.679024,
+    "Index": 52,
+    "Name": "Row_052",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1611.4982,
+      "Z": 0.0
+    },
+    "TimeSec": 18.991383,
+    "Index": 53,
+    "Name": "Row_053",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1986.0676,
+      "Z": 769.5104
+    },
+    "TimeSec": 19.491156,
+    "Index": 54,
+    "Name": "Row_054",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1847.2935,
+      "Z": 0.0
+    },
+    "TimeSec": 19.678572,
+    "Index": 55,
+    "Name": "Row_055",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1302.8862,
+      "Z": 453.4687
+    },
+    "TimeSec": 19.99093,
+    "Index": 56,
+    "Name": "Row_056",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 351.84778,
+      "Z": 512.9101
+    },
+    "TimeSec": 20.187716,
+    "Index": 57,
+    "Name": "Row_057",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 464.87988
+    },
+    "TimeSec": 20.515692,
+    "Index": 58,
+    "Name": "Row_058",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1521.6299,
+      "Z": 190.7543
+    },
+    "TimeSec": 20.74059,
+    "Index": 59,
+    "Name": "Row_059",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.0
+    },
+    "TimeSec": 20.990477,
+    "Index": 60,
+    "Name": "Row_060",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 1100.0
+    },
+    "TimeSec": 21.740135,
+    "Index": 61,
+    "Name": "Row_061",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 353.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 22.264898,
+    "Index": 62,
+    "Name": "Row_062",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 353.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 22.464808,
+    "Index": 63,
+    "Name": "Row_063",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 990.97473,
+      "Z": 214.14214
+    },
+    "TimeSec": 22.989569,
+    "Index": 64,
+    "Name": "Row_064",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 7.0537014,
+      "Z": 664.7555
+    },
+    "TimeSec": 23.414377,
+    "Index": 65,
+    "Name": "Row_065",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 62.27998,
+      "Z": 274.8241
+    },
+    "TimeSec": 23.664263,
+    "Index": 66,
+    "Name": "Row_066",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 554.0,
+      "Z": 834.8474
+    },
+    "TimeSec": 23.989115,
+    "Index": 67,
+    "Name": "Row_067",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1187.6299,
+      "Z": 177.7179
+    },
+    "TimeSec": 24.388935,
+    "Index": 68,
+    "Name": "Row_068",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 353.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 24.813742,
+    "Index": 69,
+    "Name": "Row_069",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 323.3502,
+      "Z": 810.89087
+    },
+    "TimeSec": 25.338503,
+    "Index": 70,
+    "Name": "Row_070",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 400.0
+    },
+    "TimeSec": 25.663357,
+    "Index": 71,
+    "Name": "Row_071",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1632.6302,
+      "Z": 491.42847
+    },
+    "TimeSec": 25.93823,
+    "Index": 72,
+    "Name": "Row_072",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 353.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 26.487982,
+    "Index": 73,
+    "Name": "Row_073",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 26.675396,
+    "Index": 74,
+    "Name": "Row_074",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 367.59085,
+      "Z": 313.53067
+    },
+    "TimeSec": 26.987755,
+    "Index": 75,
+    "Name": "Row_075",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.0
+    },
+    "TimeSec": 27.175169,
+    "Index": 76,
+    "Name": "Row_076",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.0
+    },
+    "TimeSec": 27.487528,
+    "Index": 77,
+    "Name": "Row_077",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.0
+    },
+    "TimeSec": 27.674942,
+    "Index": 78,
+    "Name": "Row_078",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1411.4982,
+      "Z": 0.0
+    },
+    "TimeSec": 27.9873,
+    "Index": 79,
+    "Name": "Row_079",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2047.2935,
+      "Z": 0.0
+    },
+    "TimeSec": 28.487074,
+    "Index": 80,
+    "Name": "Row_080",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1454.994,
+      "Z": 583.32715
+    },
+    "TimeSec": 28.67449,
+    "Index": 81,
+    "Name": "Row_081",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 876.0,
+      "Z": 1044.8293
+    },
+    "TimeSec": 28.986849,
+    "Index": 82,
+    "Name": "Row_082",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2016.8706,
+      "Z": 197.67258
+    },
+    "TimeSec": 29.174263,
+    "Index": 83,
+    "Name": "Row_083",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1318.3151,
+      "Z": 729.3369
+    },
+    "TimeSec": 29.486622,
+    "Index": 84,
+    "Name": "Row_084",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1103.3893,
+      "Z": 439.2923
+    },
+    "TimeSec": 29.674036,
+    "Index": 85,
+    "Name": "Row_085",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1611.4982,
+      "Z": 0.0
+    },
+    "TimeSec": 29.986395,
+    "Index": 86,
+    "Name": "Row_086",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.2142
+    },
+    "TimeSec": 30.361225,
+    "Index": 87,
+    "Name": "Row_087",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 0.0
+    },
+    "TimeSec": 30.98594,
+    "Index": 88,
+    "Name": "Row_088",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 971.57635,
+      "Z": 663.5177
+    },
+    "TimeSec": 31.485714,
+    "Index": 89,
+    "Name": "Row_089",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1168.7745,
+      "Z": 630.1577
+    },
+    "TimeSec": 31.985487,
+    "Index": 90,
+    "Name": "Row_090",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1611.4982,
+      "Z": 0.0
+    },
+    "TimeSec": 32.48526,
+    "Index": 91,
+    "Name": "Row_091",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1053.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 32.985035,
+    "Index": 92,
+    "Name": "Row_092",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 85.06886
+    },
+    "TimeSec": 33.484806,
+    "Index": 93,
+    "Name": "Row_093",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 33.98458,
+    "Index": 94,
+    "Name": "Row_094",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1383.1145,
+      "Z": 918.5485
+    },
+    "TimeSec": 34.35941,
+    "Index": 95,
+    "Name": "Row_095",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1957.1023,
+      "Z": 564.4445
+    },
+    "TimeSec": 34.687386,
+    "Index": 96,
+    "Name": "Row_096",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1611.4982,
+      "Z": 0.0
+    },
+    "TimeSec": 34.984127,
+    "Index": 97,
+    "Name": "Row_097",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 225.83469,
+      "Z": 172.4449
+    },
+    "TimeSec": 35.171543,
+    "Index": 98,
+    "Name": "Row_098",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 353.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 35.483902,
+    "Index": 99,
+    "Name": "Row_099",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 35.680687,
+    "Index": 100,
+    "Name": "Row_100",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 84.766205,
+      "Z": 1100.0
+    },
+    "TimeSec": 36.008663,
+    "Index": 101,
+    "Name": "Row_101",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1347.2783,
+      "Z": 539.9556
+    },
+    "TimeSec": 36.196075,
+    "Index": 102,
+    "Name": "Row_102",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 36.508434,
+    "Index": 103,
+    "Name": "Row_103",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 153.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 36.767323,
+    "Index": 104,
+    "Name": "Row_104",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1611.4982,
+      "Z": 0.0
+    },
+    "TimeSec": 37.03362,
+    "Index": 105,
+    "Name": "Row_105",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2165.9185,
+      "Z": 682.0252
+    },
+    "TimeSec": 37.482994,
+    "Index": 106,
+    "Name": "Row_106",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 37.67041,
+    "Index": 107,
+    "Name": "Row_107",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1633.3654,
+      "Z": 692.9909
+    },
+    "TimeSec": 37.982765,
+    "Index": 108,
+    "Name": "Row_108",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 38.357597,
+    "Index": 109,
+    "Name": "Row_109",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1847.2935,
+      "Z": 0.0
+    },
+    "TimeSec": 38.694946,
+    "Index": 110,
+    "Name": "Row_110",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.2142
+    },
+    "TimeSec": 39.0073,
+    "Index": 111,
+    "Name": "Row_111",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 879.0999
+    },
+    "TimeSec": 39.98186,
+    "Index": 112,
+    "Name": "Row_112",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.2142
+    },
+    "TimeSec": 40.178646,
+    "Index": 113,
+    "Name": "Row_113",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1670.0,
+      "Z": 1060.3971
+    },
+    "TimeSec": 40.506622,
+    "Index": 114,
+    "Name": "Row_114",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 199.9604,
+      "Z": 460.9012
+    },
+    "TimeSec": 40.69404,
+    "Index": 115,
+    "Name": "Row_115",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 96.95114
+    },
+    "TimeSec": 41.006393,
+    "Index": 116,
+    "Name": "Row_116",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 41.19381,
+    "Index": 117,
+    "Name": "Row_117",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 41.50617,
+    "Index": 118,
+    "Name": "Row_118",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 41.731068,
+    "Index": 119,
+    "Name": "Row_119",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 139.54887,
+      "Z": 270.2433
+    },
+    "TimeSec": 42.305805,
+    "Index": 120,
+    "Name": "Row_120",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 42.505714,
+    "Index": 121,
+    "Name": "Row_121",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 42.830566,
+    "Index": 122,
+    "Name": "Row_122",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 43.00549,
+    "Index": 123,
+    "Name": "Row_123",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1200.0848,
+      "Z": 999.17194
+    },
+    "TimeSec": 43.405308,
+    "Index": 124,
+    "Name": "Row_124",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1866.0026,
+      "Z": 1100.0
+    },
+    "TimeSec": 44.05501,
+    "Index": 125,
+    "Name": "Row_125",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 464.87988
+    },
+    "TimeSec": 44.704716,
+    "Index": 126,
+    "Name": "Row_126",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 96.95114
+    },
+    "TimeSec": 45.029568,
+    "Index": 127,
+    "Name": "Row_127",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2030.5645,
+      "Z": 985.3618
+    },
+    "TimeSec": 45.201366,
+    "Index": 128,
+    "Name": "Row_128",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 497.33347
+    },
+    "TimeSec": 45.77923,
+    "Index": 129,
+    "Name": "Row_129",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.2142
+    },
+    "TimeSec": 46.097836,
+    "Index": 130,
+    "Name": "Row_130",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 46.378956,
+    "Index": 131,
+    "Name": "Row_131",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1577.7251,
+      "Z": 882.956
+    },
+    "TimeSec": 46.597607,
+    "Index": 132,
+    "Name": "Row_132",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.2142
+    },
+    "TimeSec": 46.753788,
+    "Index": 133,
+    "Name": "Row_133",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 47.103626,
+    "Index": 134,
+    "Name": "Row_134",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.2142
+    },
+    "TimeSec": 47.50345,
+    "Index": 135,
+    "Name": "Row_135",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 47.753334,
+    "Index": 136,
+    "Name": "Row_136",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1394.4719,
+      "Z": 802.8418
+    },
+    "TimeSec": 48.37805,
+    "Index": 137,
+    "Name": "Row_137",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 48.75288,
+    "Index": 138,
+    "Name": "Row_138",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 353.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 49.027756,
+    "Index": 139,
+    "Name": "Row_139",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 49.752426,
+    "Index": 140,
+    "Name": "Row_140",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 50.00231,
+    "Index": 141,
+    "Name": "Row_141",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 50.377144,
+    "Index": 142,
+    "Name": "Row_142",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1611.4982,
+      "Z": 0.0
+    },
+    "TimeSec": 50.6895,
+    "Index": 143,
+    "Name": "Row_143",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2001.7822,
+      "Z": 470.69345
+    },
+    "TimeSec": 51.001858,
+    "Index": 144,
+    "Name": "Row_144",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1487.7131,
+      "Z": 625.9066
+    },
+    "TimeSec": 51.501633,
+    "Index": 145,
+    "Name": "Row_145",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 464.87988
+    },
+    "TimeSec": 52.001408,
+    "Index": 146,
+    "Name": "Row_146",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 52.50118,
+    "Index": 147,
+    "Name": "Row_147",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 400.2142
+    },
+    "TimeSec": 53.000954,
+    "Index": 148,
+    "Name": "Row_148",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 53.178997,
+    "Index": 149,
+    "Name": "Row_149",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 911.7151,
+      "Z": 129.01572
+    },
+    "TimeSec": 53.47574,
+    "Index": 150,
+    "Name": "Row_150",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1814.1464,
+      "Z": 197.23407
+    },
+    "TimeSec": 53.672523,
+    "Index": 151,
+    "Name": "Row_151",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 96.95114
+    },
+    "TimeSec": 54.0005,
+    "Index": 152,
+    "Name": "Row_152",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 54.375328,
+    "Index": 153,
+    "Name": "Row_153",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1773.0763,
+      "Z": 840.0849
+    },
+    "TimeSec": 55.499817,
+    "Index": 154,
+    "Name": "Row_154",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1475.1571,
+      "Z": 1100.0
+    },
+    "TimeSec": 55.99959,
+    "Index": 155,
+    "Name": "Row_155",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2089.6323,
+      "Z": 1100.0
+    },
+    "TimeSec": 56.999138,
+    "Index": 156,
+    "Name": "Row_156",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2011.5675,
+      "Z": 229.2483
+    },
+    "TimeSec": 57.186554,
+    "Index": 157,
+    "Name": "Row_157",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 400.2142
+    },
+    "TimeSec": 57.498913,
+    "Index": 158,
+    "Name": "Row_158",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 57.7488,
+    "Index": 159,
+    "Name": "Row_159",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1611.4982,
+      "Z": 0.0
+    },
+    "TimeSec": 57.998684,
+    "Index": 160,
+    "Name": "Row_160",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 0.0
+    },
+    "TimeSec": 58.373516,
+    "Index": 161,
+    "Name": "Row_161",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 58.620277,
+    "Index": 162,
+    "Name": "Row_162",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 96.95114
+    },
+    "TimeSec": 58.82331,
+    "Index": 163,
+    "Name": "Row_163",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 464.87988
+    },
+    "TimeSec": 58.99823,
+    "Index": 164,
+    "Name": "Row_164",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1053.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 59.176273,
+    "Index": 165,
+    "Name": "Row_165",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 200.0
+    },
+    "TimeSec": 59.473015,
+    "Index": 166,
+    "Name": "Row_166",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 59.6698,
+    "Index": 167,
+    "Name": "Row_167",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 697.3335
+    },
+    "TimeSec": 59.997776,
+    "Index": 168,
+    "Name": "Row_168",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1675.1571,
+      "Z": 1100.0
+    },
+    "TimeSec": 60.49755,
+    "Index": 169,
+    "Name": "Row_169",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 952.95795,
+      "Z": 1100.0
+    },
+    "TimeSec": 60.747437,
+    "Index": 170,
+    "Name": "Row_170",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 60.997326,
+    "Index": 171,
+    "Name": "Row_171",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 61.18474,
+    "Index": 172,
+    "Name": "Row_172",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 353.4906,
+      "Z": 0.0
+    },
+    "TimeSec": 61.497097,
+    "Index": 173,
+    "Name": "Row_173",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 61.684513,
+    "Index": 174,
+    "Name": "Row_174",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1253.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 61.996872,
+    "Index": 175,
+    "Name": "Row_175",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 938.1256,
+      "Z": 860.70044
+    },
+    "TimeSec": 62.3717,
+    "Index": 176,
+    "Name": "Row_176",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 2200.0,
+      "Z": 1068.1211
+    },
+    "TimeSec": 62.996418,
+    "Index": 177,
+    "Name": "Row_177",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 758.89185,
+      "Z": 0.0
+    },
+    "TimeSec": 63.49619,
+    "Index": 178,
+    "Name": "Row_178",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 96.95114
+    },
+    "TimeSec": 63.995964,
+    "Index": 179,
+    "Name": "Row_179",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 784.7882,
+      "Z": 592.03204
+    },
+    "TimeSec": 64.495735,
+    "Index": 180,
+    "Name": "Row_180",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1979.3185,
+      "Z": 426.63116
+    },
+    "TimeSec": 64.995514,
+    "Index": 181,
+    "Name": "Row_181",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1053.7075,
+      "Z": 0.0
+    },
+    "TimeSec": 65.495285,
+    "Index": 182,
+    "Name": "Row_182",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 1475.1571,
+      "Z": 1100.0
+    },
+    "TimeSec": 66.54481,
+    "Index": 183,
+    "Name": "Row_183",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  },
+  {
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 464.87988
+    },
+    "TimeSec": 66.74472,
+    "Index": 184,
+    "Name": "Row_184",
+    "SongIdentifier": "3",
+    "DifficultyIdentifier": "0"
+  }
+]
