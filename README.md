@@ -7,7 +7,7 @@
 - [Circle over](https://freesound.org/people/deleted_user_877451/sounds/76376/)
 ### Music sources
 - [INSPIRED](https://soundcloud.com/neffexmusic/inspired)
-- [GO](hhttps://soundcloud.com/neffexmusic/go-1)
+- [GO](https://soundcloud.com/neffexmusic/go-1)
 - [The Riot](https://ncs.io/TheRiot)
 
 ### Maps
